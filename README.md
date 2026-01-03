@@ -2,9 +2,9 @@
 <!--  -->
 <h2>About me</h2>
 
-I'm an early-stage Systems Engineering student passionate about web development and data analysis. I'm characterized by my commitment to continuous learning, my curiosity to understand how technologies work, and my interest in staying up-to-date with industry trends.
+I'm an early-stage Systems Engineering student passionate about web development and data analysis. I stand out for my commitment to continuous learning, curiosity about how technologies work, and interest in staying up to date with industry trends.
 
-I'm interested in both backend and frontend development, with a future focus on areas like data analysis and machine learning. I enjoy the learning process, experimentation, and new challenges, always seeking personal and professional growth.
+I'm interested in both backend and frontend development, with a long-term projection toward data analysis and machine learning. I enjoy learning through practice, experimentation, and real challenges, always seeking personal and professional growth.
 <!--  -->
 
 - 🌱 I am currently in a continuous learning process, strengthening my foundation in software development and exploring areas such as web development, data analysis, and machine learning
@@ -31,6 +31,7 @@ I'm interested in both backend and frontend development, with a future focus on 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
